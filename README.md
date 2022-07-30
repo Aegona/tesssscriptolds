@@ -4852,8 +4852,8 @@ end
 					NameMon = "Dark Master"
 					CFrameQuest = CFrame.new(-4841.83447, 717.669617, -2623.96436, -0.875942111, 5.59710216e-08, -0.482416272, 3.04023082e-08, 1, 6.08195947e-08, 0.482416272, 3.86078725e-08, -0.875942111)
 					CFrameMon = CFrame.new(-5220.58594, 430.693298, -2278.17456, -0.925375521, 1.12086873e-08, 0.379051805, -1.05115507e-08, 1, -5.52320891e-08, -0.379051805, -5.50948407e-08, -0.925375521)
-				elseif MyLevel == 225 or MyLevel <= 274 then -- Toga Warrior
-					Ms = "Toga Warrior [Lv. 225]"
+				elseif MyLevel == 225 or MyLevel <= 274999 then -- Toga Warrior
+					Ms = "Toga Warrior [Lv. 250]"
 					NaemQuest = "ColosseumQuest"
 					LevelQuest = 1
 					NameMon = "Toga Warrior"
