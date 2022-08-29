@@ -1,3 +1,3 @@
 while _G.GG do wait()
-    print(GG)
+    print(TESTTTTT)
     end
